@@ -5,7 +5,7 @@ The purpose of this is to create caves similar to the cave seen below, created i
 ![dMRNmtG](https://user-images.githubusercontent.com/82299803/129499940-432cddae-6b70-49b6-8a2f-be2aae166395.png)
 
 The goals for the generation to achieve are listed below.
-  - Generate a cave-like foreground
+  - Generate a pink cave-like foreground
   - Generate a background with gaps exposed to air
   - Have a background border around some, but not all foreground tiles
   - Generate stalagmites and stalactites in the foreground and background
